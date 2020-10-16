@@ -1,6 +1,6 @@
 """TwinBert Implementation"""
 
-import torch
+# import torch
 import logging
 from tensorflow.python.keras import backend as K
 from transformers.modeling_tf_bert import TFSequenceClassificationLoss, TFBertPreTrainedModel
